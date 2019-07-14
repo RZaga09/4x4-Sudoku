@@ -58,7 +58,7 @@
 	line3[3] <--> line3[0] if line3[3] != line1[0], line2[0]
 	line3[3] <--> line3[1] if line3[3] != line1[1], line2[1]
 
-	Error Handler#2:
+	Error Handler #2:
 
 	if line3[2] == 0:
 	line3[2] = Whichever number is not yet in the row
