@@ -1,6 +1,6 @@
 **_4x4 Sudoku Puzzle made with Processing3_**
 
-**PUZZLE GENERATION ALGORITHM**
+**PUZZLE GENERATION ALGORITHM** (Any similarity to any other existing algorithm is purely coincidental)
 
 *Rows represented by arrays*
 
